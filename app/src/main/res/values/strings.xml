@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Liquid Swipe Test</string>
+    <string name="gamecoin">GameCoin</string>
+    <string name="skip">SKIP</string>
+
+    <string name="desc_one">Providing the necessary food commodities  is important for all families,  but how can we get them  for less than half the price ?</string>
+    <string name="desc_two">Here at Tamwin you no longer need to take out a large amount of your money to buy food products !</string>
+    <string name="desc_three">There is no need to worry about the validity of our products, as all the offered products are valid for use, have not expired, and are fully compliant with the conditions of the Ministry of Health.</string>
+    <string name="desc_fourth">We display all products with expiration dates so make sure check the date before buying  to can used before the specified period.</string>
+
+</resources>
